@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="favor" ref="favorRef">
     <h2>favor</h2>
     <template v-for="(item) in 100">
@@ -25,4 +25,4 @@ useScroll(favorRef)
   overflow-y: auto;
 }
 
-</style>
+</style> -->

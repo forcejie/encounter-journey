@@ -1,0 +1,24 @@
+:root {
+  --primary-color: #ff9854;
+
+  --van-tabbar-item-active-color:#ff9854;
+  --van-search-left-icon-color: #ff9854;
+  --van-primary-color:var(--primary-color);
+}
+/* html {
+  filter: grayscale(100%);
+} */
+body {
+  font-size: 14px;
+}
+.top-page {
+  position: relative;
+  z-index: 9;
+  height: 100vh;
+  background-color: #fff;
+  overflow-y: auto;
+}
+
+
+
+
